@@ -1,5 +1,0 @@
-# mmadig-ar-tg-z
-
-## Db Diagram
-
-![alt text](https://dbdiagram.io/d/60853d39b29a09603d12042d.png)
