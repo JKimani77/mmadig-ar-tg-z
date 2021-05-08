@@ -1,3 +1,3 @@
 # mmadig-ar-tg-z
 
-![DBDIAGRAM](./raw/dbdiagram.jpg?raw=true)
+![DBDIAGRAM](https://github.com/JKimani77/mmadig-ar-tg-z/blob/main/dbdiagram.png?raw=true)
